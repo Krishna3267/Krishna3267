@@ -13,7 +13,7 @@
 - ⭐ I mainly use Javascript frameworks and I craft beautiful websites with a pristine user experience. I like to maintain a tidy directory struture for code elegance. 
 - 🚀 I am building my foundations in backend development navigating with both SQL and NoSQL, one function at a time. Besides, I am working on my problem solving skills through data structures.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I'm eager to dive into open-source contributions!
-- ✨ When I am not coding, I like to simply enjoy the nature or listen to music.
+- ✨ When I am not coding, I like to simply enjoy the nature or listen to music 🥀🎶
 
 
 
